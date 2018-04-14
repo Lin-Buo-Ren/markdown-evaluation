@@ -57,6 +57,9 @@ Apply formatting **here**
 #### <u>: The Unarticulated Annotation (Underline) element
 Apply formatting <u>here</u>
 
+#### <mark>: The Mark Text element
+Apply formatting <mark>here</mark>
+
 ## Hyperlinks
 [Google](https://google.com)
 
