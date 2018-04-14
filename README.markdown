@@ -54,6 +54,7 @@ Apply formatting *here*
 Apply formatting **here**
 
 ### Raw HTML Elements
+#### <u>: The Unarticulated Annotation (Underline) element
 Apply formatting <u>here</u>
 
 ## Hyperlinks
