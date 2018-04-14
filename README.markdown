@@ -54,10 +54,10 @@ Apply formatting *here*
 Apply formatting **here**
 
 ### Raw HTML Elements
-#### <u>: The Unarticulated Annotation (Underline) element
+#### &lt;u&gt;: The Unarticulated Annotation (Underline) element
 Apply formatting <u>here</u>
 
-#### <mark>: The Mark Text element
+#### &lt;mark&gt;: The Mark Text element
 Apply formatting <mark>here</mark>
 
 ## Hyperlinks
