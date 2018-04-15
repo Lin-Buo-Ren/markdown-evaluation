@@ -81,12 +81,11 @@ Apply formatting ~~here~~
 * [x] Orange
 
 ### Scientific Rendering
-#### TEX-like
-##### Legacy TEX Syntax
-###### Inline
+#### Legacy TEX Syntax
+##### Inline
 $\frac{2}{3}$
 
-###### Independent
+##### Independent
 $$\frac{2}{3}$$
 
 #### LaTeX Syntax
