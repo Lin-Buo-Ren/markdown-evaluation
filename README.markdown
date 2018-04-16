@@ -64,6 +64,8 @@ Apply formatting <mark>here</mark>
 [Google](https://google.com)
 
 ## Images
+![Taiwan No.1](https://i.imgur.com/fefdJO5.png)
+![圖片失效時會顯示其替代文字](https://i.imgur.com:65536/fefdJO5.png)
 
 ## Extensions
 ### Striked-out Text Formatting
