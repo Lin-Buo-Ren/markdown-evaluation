@@ -63,24 +63,30 @@ Apply formatting <mark>here</mark>
 ## Hyperlinks
 [Google](https://google.com)
 
+## Autolinks
+<https://google.com>
+
 ## Images
 ![Taiwan No.1](https://i.imgur.com/fefdJO5.png)  
 ![Alternative text should be shown when the image is invalid](https://i.imgur.com:65536/fefdJO5.png)
 
 ## Extensions
-### Striked-out Text Formatting
+### Strikedthrough Text Formatting ([GFM](https://github.github.com/gfm/#strikethrough-extension-))
 Apply formatting ~~here~~
 
-### Tables
+### Tables ([GFM](https://github.github.com/gfm/#tables-extension-))
 #### Centered
 | Name | Value |
 | :-: | :-: |
 | Apple | 3 |
 | Oranges | 5 |
 
-### Checklists
+### Task List Items ([GFM](https://github.github.com/gfm/#task-list-items-extension-))
 * [ ] Apple
 * [x] Orange
+
+### Autolinks ([GFM](https://github.github.com/gfm/#autolinks-extension-))
+www.commonmark.org
 
 ### Scientific Rendering
 #### Legacy TEX Syntax
