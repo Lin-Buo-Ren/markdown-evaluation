@@ -1,7 +1,7 @@
 # Markdown Editor Feature Evaluation Document
 This document is created for evaluating the conformance of a Markdown Editor(/Viewer) for standard/non-standard features.  You may load this document in the Markdown application and see how it render the markups.
 
-This document is released to the Public Domain with no copyright restrictions applied.
+This document is released to the Public Domain with no copyright restrictions applied.  The latest version of the document is located at <https://github.com/Lin-Buo-Ren/markdown-evaluation>.
 
 ## Headings
 ### 3rd Level Heading
